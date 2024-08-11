@@ -1,0 +1,9 @@
+git init
+git remote add origin https://github.com/SorawitZongkun/basic_python_67_b.git
+
+git config --global user.name "your name"
+git config --global user.email "your email"
+
+git add .
+git commit -m "First Upload"
+git push origin master
