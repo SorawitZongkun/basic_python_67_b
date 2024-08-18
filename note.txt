@@ -7,3 +7,7 @@ git config --global user.email "your email"
 git add .
 git commit -m "First Upload"
 git push origin master
+
+git pull origin master
+
+git clone https://github.com/SorawitZongkun/basic_python_67_b.git
