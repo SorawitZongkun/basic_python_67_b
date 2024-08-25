@@ -11,3 +11,5 @@ print(camel.hump(txt))
 # pip list
 # pip install camelcase
 # pip uninstall camelcase
+# python.exe -m pip list
+# python.exe -m pip install camelcase
